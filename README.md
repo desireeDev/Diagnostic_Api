@@ -50,5 +50,5 @@ L’API est **testable via Swagger UI**, idéale pour les projets front-end.
 
 1. Cloner le projet :  
 ```bash
-git clone <URL_DU_PROJET>
+git clone <https://github.com/desireeDev/Diagnostic_Api.git>
 cd diagnostic-api
