@@ -8,7 +8,7 @@
 
 API REST pour la gestion des **diagnostics clients**, développée avec **Spring Boot 3**, **Java 21**, et documentée via **Swagger / OpenAPI**.  
 
-L’API est **testable via Swagger UI**, idéale pour les projets front-end ou pour des entretiens techniques.
+L’API est **testable via Swagger UI**, idéale pour les projets front-end.
 
 ---
 
