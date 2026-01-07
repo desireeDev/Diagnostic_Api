@@ -4,7 +4,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=spring)
 ![Maven](https://img.shields.io/badge/Maven-3.9-blue?logo=apachemaven)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 API REST pour la gestion des **diagnostics clients**, développée avec **Spring Boot 3**, **Java 23**, et documentée via **Swagger / OpenAPI**.  
 
@@ -42,6 +42,7 @@ L’API est **testable via Swagger UI**, idéale pour les projets front-end.
 - **H2 Database**
 - **Swagger / OpenAPI** (`springdoc-openapi-starter-webmvc-ui`)
 - **Maven**
+- **Docker**
 
 ---
 
