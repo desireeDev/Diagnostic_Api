@@ -5,6 +5,8 @@
 ![Maven](https://img.shields.io/badge/Maven-3.9-blue?logo=apachemaven)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+<img width="1877" height="1087" alt="testjj" src="https://github.com/user-attachments/assets/ece819c2-9edf-41e2-ac1d-a34d890cac6a" />
+
 
 API REST pour la gestion des **diagnostics clients**, développée avec **Spring Boot 3**, **Java 23**, et documentée via **Swagger / OpenAPI**.  
 
@@ -44,7 +46,7 @@ L’API est **testable via Swagger UI**, idéale pour les projets front-end.
 - **Maven**
 - **Docker**
 
-![testjj.png](../Downloads/testjj.png)
+
 ---
 
 ## ⚙️ Installation & Lancement
