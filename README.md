@@ -44,6 +44,7 @@ L’API est **testable via Swagger UI**, idéale pour les projets front-end.
 - **Maven**
 - **Docker**
 
+![testjj.png](../Downloads/testjj.png)
 ---
 
 ## ⚙️ Installation & Lancement
